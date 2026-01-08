@@ -36,6 +36,6 @@ uvicorn app.main:app --port 8002 --reload
 Testes rápidos
 
 - `service-api` padrão: http://localhost:8001
-- `service-bff` padrão: http://localhost:8002
+- `service-bff` padrão: http://localhost:8000
 
 Veja os README específicos de cada serviço para exemplos de endpoints e comandos.
