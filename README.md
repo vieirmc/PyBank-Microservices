@@ -30,7 +30,7 @@ uvicorn app.main:app --port 8001 --reload
 ```bash
 cd service-bff
 pip install -r requirements.txt
-uvicorn app.main:app --port 8002 --reload
+uvicorn app.main:app --port 8000 --reload
 ```
 
 Testes rápidos
