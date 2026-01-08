@@ -1,0 +1,4 @@
+service-api/.pytest_cache/
+service-bff/app/__pycache__/
+service-api/app/__pycache__/
+service-bff/.pytest_cache/
